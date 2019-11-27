@@ -1,0 +1,4 @@
+export const GET_ERRORS="GET_ERRORS";
+export const GET_PROJECTS="GET_PROJRCTS";
+export const GET_PROJECT="GET_PROJRCT";
+export const DELETE_PROJECT="DELETE_PROJECT";
